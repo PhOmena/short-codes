@@ -1,5 +1,5 @@
-# Short Codes You Maybe Needed
-    Short codes you maybe need in a Python Enviroment
+# Short Codes
+    Short codes you should need in a Python Enviroment
 
 ### Automação
 

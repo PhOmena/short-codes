@@ -1,18 +1,16 @@
 from imap_tools import MailBox, AND
-import time
-import pyautogui
 
-#### LEMBRANDO DE ACEITAR O IMAP NOS EMAILS ####
+# buscar o e-mail do relatório no Gmail e faz o download do anexo
+# aceitar o imap e informações desconhecidas para funcionar
 
-# Essa função busca o e-mail de estoque no Gmail e faz o download do anexo.
-
-# Seu email
+# seu email
 email = ""
-# Senha do email
+# senha do email
 password = ""
 
 # Indicando que a caixa é do tipo Gmail, para fazer o login
 myMailBox = MailBox('imap.gmail.com').login(email, password)
+
 # Acessa a caixa de entrada e define quais emails procurar
 emailsList = myMailBox.fetch(AND(from_="anyemail@gmail.com"))
 
@@ -31,7 +29,4 @@ for email in emailsList:
                     arquivo_excel.write(anexo.payload)
                 print('Relatório extraído com sucesso :)')
     else:
-        pyautogui.alert('Não foi possível extrair o relatório :(')
-
-# Tempo do download do anexo ser concluído. Sempre tomar cuidado com isso
-time.sleep(5)
+        print('Não foi possível extrair o relatório :(')

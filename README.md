@@ -3,7 +3,11 @@
 
 ### Automação
 
+    # O selenium é uma biblioteca para a automação de navegadores web
     - selenium: https://www.selenium.dev/
+
+    # pyautogui automatiza tarefas, fazendo você ter controle total dos seus periféricos via código
+    # 
     - pyautogui: https://pyautogui.readthedocs.io/en/latest/
 
 ### Email

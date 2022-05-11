@@ -1,63 +1,72 @@
-# Short Codes
+⚠️ Project in conclusion
 
+<h1 align="center">Short codes you need in a Python Environment</h1>
+<h1 align="center"><img width="50" src="https://cdn.icon-icons.com/icons2/112/PNG/128/python_18894.png"></h1>
 
-## Automação
+## ✏️ About the project
+  
+This is an a repository for my experience working with Python. Who never thought 
+##### "How does this functionality works?", 
+##### "What was the library to build that...?". 
+So, I have decided to put in this repository all the thinks you can do and how you do with Python. I hope you enjoy it.
+
+## Automation
 
 #### Selenium
-    O selenium é uma biblioteca para a automação de 100% dos navegadores WEB. 
-    Documentação: https://www.selenium.dev/
+    Seleium is a library to work with 100% of the web browsers.
+    Doc: https://www.selenium.dev/
     
 #### Pyautogui
-    Pyautogui automatiza tarefas, fazendo você ter controle total dos seus periféricos. 
-    Documentação: https://pyautogui.readthedocs.io/en/latest/
+    Pyautogui has to control your peripherals.
+    Doc: https://pyautogui.readthedocs.io/en/latest/
 
-## Email
+## E-mail
 
 #### Pywin32
-    Módulo que permite a criação de componentes COM (Common Object Model) em Python.
-    Documentação: https://pypi.org/project/pywin32/
+    Module that allows the creation of COM (Common Object Model) components in Python.
+    Doc: https://pypi.org/project/pywin32/
   
 #### Imap Tools
-    O Imap Tools permite uma integração com o seu e-mail, localizando e-mails específicos e fazendo o donwload de anexos.
-    Documentação: https://pypi.org/project/imap-tools/
+    Imap Tools allows integration with your email, locating specific emails and downloading attachments.
+    Doc: https://pypi.org/project/imap-tools/
 
 ## Interfaces
 
 #### TkInter:
     
-    O TkInter é um conjunto de envólucros que implementam os widgets Tk como classes Python.
+    TkInter is a set of wrappers that implement Tk widgets as Python classes.
     https://docs.python.org/3/library/tkinter.html
     
 #### PySimpleGUI:
     
-    É uma GUI Python para humanos que transforma Tkinter, PyQt, Remi, WxPython em interfaces Pythônicas amigáveis e portáteis.
+    It is a Python GUI for humans that turns Tkinter, PyQt, Remi, WxPython into user-friendly and portable Pythonic interfaces.
     Documentação: https://pysimplegui.readthedocs.io/en/latest/
     
-
-## Manipualação de datas
+## Data manipulation
 
 #### DateTime
-    O Datetime é uma combinação das funções DATE e TIME. DATE retorna o número de série sequencial que representa uma data específica.
+    Datetime is a combination of the DATE and TIME functions. DATE returns the sequential serial number representing a specific date.
     Documentação: https://docs.python.org/3/library/datetime.html
 
-## Mudando e apagando diretórios
+## Changing and deleting a directory
 
 #### Pyos
-    O Pyos é uma biblioteca de integração do Python com o ambiente do seu os. Facilitando operações dentro do próprio sistema.
+    Pyos is a library for integrating Python with your operation system environment. You can make operations within the operation system.
     Documentação: https://pypi.org/project/pyos/
 
 ## Python + Excel
 
 #### Openpyxl
-    O openpyxl é uma biblioteca Python que nos permite ler e escrever arquivos Excel usando um código Python.
-    Documentação: https://openpyxl.readthedocs.io/en/stable/
+    Openpyxl is a Python library that allows us to read and write Excel files using Python code.
+    Doc: https://openpyxl.readthedocs.io/en/stable/
     
 #### Pandas
-    Pandas é uma biblioteca de software criada para a linguagem Python para manipulação e análise de dados.
-    Documentação: https://pandas.pydata.org/
+    Pandas is a software library for data analysis and data manipulation.
+    Doc: https://pandas.pydata.org/
 
 ## Python + SQL
 
 #### Pandas
-    Pandas é uma biblioteca de software criada para a linguagem Python para manipulação e análise de dados.
-    Documentação: https://pandas.pydata.org/
+    Pandas is a software library for data analysis and data manipulation.
+    Doc: https://pandas.pydata.org/
+

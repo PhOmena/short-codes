@@ -5,10 +5,11 @@
 
 ## ✏️ About the project
   
-This is an a repository for my experience working with Python. Who never thought 
+This is an a repository for my experience working with Python. 
+Who never thought...
 ##### "How does this functionality works?", 
 ##### "What was the library to build that...?". 
-So, I have decided to put in this repository all the thinks you can do and how you do with Python. I hope you enjoy it.
+So, I have decided to put in this repository all the things you can do and how you do with Python. I hope you enjoy it.
 
 ## Automation
 
